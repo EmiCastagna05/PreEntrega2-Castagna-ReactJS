@@ -1,3 +1,6 @@
+El video mostrando como funciona la pagina esta en /src/assets/Video/PreEntrega2-Castagna.mp4
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
