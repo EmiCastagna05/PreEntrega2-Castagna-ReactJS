@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Arturia Microfreak Stellar",
+        "description": "Sintetizador Arturia Microfreak Stellar",
+        "image": "/src/assets/Productos/Sintetizador - Arturia - Microfreak Stellar.png",
+        "price": 428858,
+        "stock": 10,
+        "category": "sintetizadores"
+    },
+    {
+        "id": 2,
+        "name": "Arturia KeyStep Pro",
+        "description": "Controlador MIDI Arturia KeyStep Pro",
+        "image": "/src/assets/Productos/Arturia - KeyStep Pro.png",
+        "price": 466708,
+        "stock": 10,
+        "category": "midi"
+    },
+    {
+        "id": 3,
+        "name": "Arturia Keylab Essential MK3",
+        "description": "Controlador MIDI Arturia Keylab Essential MK3",
+        "image": "/src/assets/Productos/Arturia - Keylab Essential - MK3.png",
+        "price": 329117,
+        "stock": 10,
+        "category": "midi"
+    },
+    {
+        "id": 4,
+        "name": "Arturia Matrixbrute",
+        "description": "Sintetizador analógico Arturia Matrixbrute",
+        "image": "/src/assets/Productos/Sintetizador Analogico - Arturia - Matrixbrute.png",
+        "price": 2185021,
+        "stock": 10,
+        "category": "sintetizadores"
+    },
+    {
+        "id": 5,
+        "name": "Focusrite Scarlett 2i2",
+        "description": "Interfaz de audio Focusrite Scarlett 2i2",
+        "image": "/src/assets/Productos/Focusrite Scarlett 2i2 3ra Generacion.png",
+        "price": 278570,
+        "stock": 10,
+        "category": "interfaces"
+    },
+    {
+        "id": 6,
+        "name": "Behringer UMC202",
+        "description": "Interfaz de audio Behringer UMC202",
+        "image": "/src/assets/Productos/Behringer UMC202 HD.png",
+        "price": 193744,
+        "stock": 10,
+        "category": "interfaces"
+    }
+]
